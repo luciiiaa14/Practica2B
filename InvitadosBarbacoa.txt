@@ -1,10 +1,12 @@
-<<<<<<< HEAD
 Juan
+<<<<<<< HEAD
 Pepe
 María y Luis
 =======
 Juan
-Valva
+
+=======
+Natalia
+>>>>>>> 5673e02d58babd3298cc8738a2635e2fc2e5af51
 Lucía
 María y Luis
->>>>>>> 156d6051aef0492e7cb46a6d68e70e946e745b86
